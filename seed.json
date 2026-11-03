@@ -1,0 +1,164 @@
+{
+ "seats/s2": {
+  "duties": "Runs the leadership team and L10\nHolds everyone to their rocks and numbers\nP&L and business plan\nSolves cross-department issues",
+  "order": 2,
+  "person": "",
+  "reportsTo": "s1",
+  "title": "Integrator"
+ },
+ "seats/s1": {
+  "duties": "Big ideas and long-term direction\nKey relationships (franchisor, large accounts)\nCulture\nCreative problem solving",
+  "order": 1,
+  "person": "",
+  "title": "Visionary"
+ },
+ "seats/s3": {
+  "duties": "Lead generation\nQuotes and close rate\nHOA, commercial and public sector accounts\nMarketing and reviews",
+  "order": 3,
+  "person": "",
+  "reportsTo": "s2",
+  "title": "Sales & Marketing"
+ },
+ "seats/s5": {
+  "duties": "Payroll and billing\nCollections\nInsurance and compliance\nHR and hiring paperwork",
+  "order": 5,
+  "person": "",
+  "reportsTo": "s2",
+  "title": "Finance & Admin"
+ },
+ "seats/s4": {
+  "duties": "Scheduling and routing\nCrew training and quality\nCallbacks and customer issues\nTrucks and equipment",
+  "order": 4,
+  "person": "",
+  "reportsTo": "s2",
+  "title": "Operations"
+ },
+ "measurables/m8": {
+  "goal": null,
+  "group": "Commercial",
+  "name": "Site walks or meetings",
+  "op": ">=",
+  "order": 6,
+  "owner": "",
+  "unit": "",
+  "values": {}
+ },
+ "measurables/m7": {
+  "goal": null,
+  "group": "Commercial",
+  "name": "Outreach",
+  "op": ">=",
+  "order": 5,
+  "owner": "",
+  "unit": "",
+  "values": {}
+ },
+ "measurables/m6": {
+  "goal": null,
+  "group": "Shared",
+  "name": "Callbacks",
+  "op": "<=",
+  "order": 10,
+  "owner": "",
+  "unit": "",
+  "values": {}
+ },
+ "measurables/m2": {
+  "goal": null,
+  "group": "Residential",
+  "name": "Quotes sent",
+  "op": ">=",
+  "order": 2,
+  "owner": "",
+  "unit": "",
+  "values": {}
+ },
+ "measurables/m10": {
+  "goal": null,
+  "group": "Commercial",
+  "name": "Revenue booked",
+  "op": ">=",
+  "order": 8,
+  "owner": "",
+  "unit": "$",
+  "values": {}
+ },
+ "measurables/m5": {
+  "goal": null,
+  "group": "Shared",
+  "name": "Jobs completed",
+  "op": ">=",
+  "order": 9,
+  "owner": "",
+  "unit": "",
+  "values": {}
+ },
+ "measurables/m9": {
+  "goal": null,
+  "group": "Commercial",
+  "name": "Proposals sent",
+  "op": ">=",
+  "order": 7,
+  "owner": "",
+  "unit": "",
+  "values": {}
+ },
+ "measurables/m1": {
+  "goal": null,
+  "group": "Residential",
+  "name": "Leads",
+  "op": ">=",
+  "order": 1,
+  "owner": "",
+  "unit": "",
+  "values": {}
+ },
+ "measurables/m4": {
+  "goal": null,
+  "group": "Residential",
+  "name": "Revenue booked",
+  "op": ">=",
+  "order": 4,
+  "owner": "",
+  "unit": "$",
+  "values": {}
+ },
+ "measurables/m3": {
+  "goal": null,
+  "group": "Residential",
+  "name": "Close rate",
+  "op": ">=",
+  "order": 3,
+  "owner": "",
+  "unit": "%",
+  "values": {}
+ },
+ "issues/i-season": {
+  "created": "2026-11-02",
+  "owner": "",
+  "priority": 0,
+  "status": "open",
+  "title": "Seasonality: spring and fall packed, winter slow"
+ },
+ "issues/i-firefight": {
+  "created": "2026-11-02",
+  "owner": "",
+  "priority": 0,
+  "status": "open",
+  "title": "GM stuck scheduling, dispatching and firefighting, no time to improve the business"
+ },
+ "issues/i-crews": {
+  "created": "2026-11-02",
+  "owner": "",
+  "priority": 0,
+  "status": "open",
+  "title": "Residential and commercial jobs compete for the same crews; homeowners get bumped"
+ },
+ "settings/team": {
+  "people": [
+   "Tim",
+   "Daniel",
+   "Ryan"
+  ]
+ }
+}
